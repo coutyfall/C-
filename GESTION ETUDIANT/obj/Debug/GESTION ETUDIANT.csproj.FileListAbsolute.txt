@@ -1,0 +1,13 @@
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\bin\Debug\GESTION ETUDIANT.exe.config
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\bin\Debug\GESTION ETUDIANT.exe
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\bin\Debug\GESTION ETUDIANT.pdb
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION_ETUDIANT.Form1.resources
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION_ETUDIANT.FrmAttribuerClasse.resources
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION_ETUDIANT.FrmConnection.resources
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION_ETUDIANT.FrmInscription.resources
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION_ETUDIANT.FrmMenu.resources
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION_ETUDIANT.Properties.Resources.resources
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION ETUDIANT.csproj.GenerateResource.cache
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION ETUDIANT.csproj.CoreCompileInputs.cache
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION ETUDIANT.exe
+C:\Users\Couty\Desktop\IAGE 3 2020-2021\C#\GESTION ETUDIANT\obj\Debug\GESTION ETUDIANT.pdb
